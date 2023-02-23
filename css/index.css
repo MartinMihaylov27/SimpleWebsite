@@ -1,0 +1,9 @@
+body {
+  font-family: "Gill Sans";
+  background-color: #ecb5d6;
+  text-align: center;
+}
+
+.Mammals, .Aves {
+  display: inline-block;
+}
